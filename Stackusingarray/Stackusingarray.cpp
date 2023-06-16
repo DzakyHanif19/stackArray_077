@@ -35,6 +35,5 @@ public:
 		top--; //step 3 decrement
 	}
 
-
 };
 
