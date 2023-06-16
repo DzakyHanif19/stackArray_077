@@ -53,5 +53,7 @@ public:
 };
 
 int main() {
-
+	stackarray s;
+	char ch;
+	
 }
